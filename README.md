@@ -8,3 +8,5 @@ Repo for all project documents
 A brief initial exploration of our data. Scatter plots showing individual features vs. the happiness score.
 ### linear_regression.ipynb
 Examining linear regression for a combination of features vs. happiness score. Score of 56%.
+### classification.ipynb
+Using decision trees to analyze certain features and predict the world region a country came from. Model was able to fairly accurately predict this. With further refinement, I expect we could greatly improve the score.
