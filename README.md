@@ -1,13 +1,23 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/7lKBcjfN)
-# 44-566 machine-learning project
-Repo for all project documents
-
-# World Happiness Index Analysis (via Kaggle, 2015)
-## Notebooks:
-### initial_exploration.ipynb
-A brief initial exploration of our data. Scatter plots showing individual features vs. the happiness score.
-### linear_regression.ipynb
-Examining linear regression for a combination of features vs. happiness score. Score of 56%.
-### classification.ipynb
-Using decision trees to analyze certain features and predict the world region a country came from. Model was able to fairly accurately predict this. With further refinement, I expect we could greatly improve the score.
-### analysis.ipynb
+# README.md
+## Contents:
+* [Raw Data](#raw-data)
+* [Data](#data)
+* [Analysis](#analysis)
+* [Conclusions](#conclusions)
+### Raw Data
+Source: Data was the 2015 World Happiness Report, pulled from the Sustainable Development Solutions Network <br>
+CSV: [World Happiness Report](#2015.csv)<br>
+Data Setup: [initial_data_setup](#initial_data_setup.ipynb)<br>
+### Data
+Transformations: <br>
+Visualizations: <br>
+### Analysis
+Metrics: <br>
+Models: <br>
+Successes: <br>
+Failures: <br>
+Limitations: <br>
+Improvements: <br>
+### Conclusions
+Main findings: <br>
+Story: <br>
