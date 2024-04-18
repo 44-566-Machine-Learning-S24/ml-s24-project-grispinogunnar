@@ -22,5 +22,5 @@ Failures: Inaccurate linear models, poor visualizations.<br>
 Limitations: Time. If I had more time, I believe I could have refined and tried different models and produced better visualizations.<br><br>
 Improvements: As stated above, I would try different models and produce higher-quality visualizaitons.<br>
 ### Conclusions
-Main findings: Produced a (relatively) succesful classifier model to predict a country's region.<br>
+Main findings: Produced a (relatively) succesful classifier model to predict a country's region. RandomForest performed the best, leveraging the advantages of a decision tree while reducing some of the variability that comes from randomly seeding only one tree. Also produced a relatively succesful predictive model to gauge a country's happiness based on certain metrics. Our performance can obviously be skewed by things such as world events, etc. but this model is relatively succesful at calculating a 'baseline' value for happiness.<br>
 Story: I wanted to explore the machine learning concepts we have learned in class on a dataset that interested me, the Word Happiness Report. I wanted to see if it was possible to predict certain metrics about a country based on other values.<br>
